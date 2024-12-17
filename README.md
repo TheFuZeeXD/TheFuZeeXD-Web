@@ -1,2 +1,2 @@
-# TheFuZeeXD-Web
-Official Resource TheFuZeeXD Web
+<h1>TheFuZeeXD Website</h1>
+<p>Warning: Use of site source code! The source code of this site is provided for informational purposes only. You have the right to use it, modify it or apply it for your own needs and projects without restrictions. However please note:<br>Responsibility for use lies with the user. The creators of the source code are not responsible for the consequences of its use.<br>Respect for attribution: If you distribute the source code unmodified or with minimal modifications, it is appropriate to attribute the author.<br>Remember that it is good practice to adapt the code to suit your own goals and objectives!</p>
