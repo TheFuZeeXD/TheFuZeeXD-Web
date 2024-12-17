@@ -1,0 +1,54 @@
+/* Основное */
+
+/* Шрифт */
+@font-face {
+    font-family: "NeoTech";
+ src: url(../fonts/NeoTech-Bold.woff2) format(woff2); 
+ font-weight: 100;
+ font-style: normal;
+ font-display: swap;
+ }
+ 
+ /* Шрифт */
+ 
+ html {
+    overflow-x: hidden;    /* Отключение Scrollbar X */
+ }
+ 
+ body::-webkit-scrollbar {
+    width: 16px;               /* Настройка ширины Scrollbar */
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: rgb(0, 0, 0);        /* Управление цветом Scrollbar background */
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: rgb(68, 68, 68);    /* Цвет Scrollbar */
+    border-radius: 20px;       /* Управление радиусом границы Scrollbar */
+    border: 3px solid rgb(0, 0, 0);  /* Создание границы ScrollBar */
+  }
+ 
+ body {
+    user-select: none;
+    text-align: center;
+    font-family: monospace; /* Шрифт по умолчанию */
+    color:rgb(255, 255, 255); /* Цвет текста по умолчанию*/
+    background-color: rgb(19, 19, 19);  /* Цвет Background */
+    background-size: 100%; /* Размер Background Image */
+    background-repeat: no-repeat; /* Повтор Background Image */ 
+ }
+ 
+  /* Основное */
+
+ img {position: relative;
+   top:2.8vw;
+   width:10%;}
+   h1{position: relative;
+  top:2vw;}
+  h2{position: relative;
+    top:1.5vw;}
+    p {position: relative;
+      top:1.5vw;}
+ 
+ /* Основное */
